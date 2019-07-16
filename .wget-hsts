@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+blog.csdn.net	0	0	1563189637	86400
+mirrors.tuna.tsinghua.edu.cn	0	0	1563193385	31536000
